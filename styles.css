@@ -152,6 +152,18 @@ p {
     position: static;
     transform: rotate(0);
   }
+  
+  .title-box {
+  padding: 3% 5% 7%;
+  }
+  
+  #features {
+  padding: 8% 5%;
+  }
+  
+  .carousel-item {
+  padding: 6% 5%;
+  }
 
 }
 
